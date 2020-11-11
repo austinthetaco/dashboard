@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to the Test Wiki](README.md)
+* [Untitled](untitled.md)
 
